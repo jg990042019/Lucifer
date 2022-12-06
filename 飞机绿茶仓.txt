@@ -1,0 +1,45 @@
+{
+  "storeHouse": 
+  [
+      {
+           "sourceName": "🥰绿茶①馆🥰",
+           "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"
+      },
+      {
+           "sourceName": "🥰绿茶②馆🥰",
+           "sourceUrl": "https://pan.css.lc/api/v3/file/get/90002/%E9%A3%9E%E6%9C%BA%E4%BB%9323.txt?sign=TGawyoffB7Ky5LLeND-J0-FiMqcsc1YD5n4QzyCdywY%3D%3A0"
+      },
+      {
+           "sourceName": "🥰绿茶③馆🥰",
+           "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"
+      },
+      {
+           "sourceName": "😘绿茶④馆😘",
+           "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"
+      }，
+      {
+            "sourceName": "😘绿茶⑤馆😘"
+            "sourceUrl":""
+      },
+      {
+            "sourceName": "😘绿茶⑥馆😘"
+            "sourceUrl":""
+      },
+      {
+            "sourceName": "😘绿茶⑦馆😘"
+            "sourceUrl":""
+      },
+      {
+            "sourceName": "😘绿茶⑧馆😘"
+            "sourceUrl":""
+      },
+      {
+            "sourceName": "😘绿茶⑨馆😘"
+            "sourceUrl":""
+      },
+      {
+            "sourceName": "😘绿茶⑩馆😘"
+            "sourceUrl":""
+      }
+  ]
+}
