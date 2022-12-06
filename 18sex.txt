@@ -1123,7 +1123,11 @@
 
 
 //资源包
-"spider":"https://gitee.com/xhb1011/tvbox/raw/master/jar/tvbox.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
+//"spider":"https://gitee.com/xhb1011/tvbox/raw/master/jar/tvbox.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
+
+"lives":[{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9kaXktd3V3dS5tM3U4"]}]}],
+"spider":"http://9xi4o.tk/0925.jar",
+
 
 //壁纸接口
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
@@ -1136,7 +1140,7 @@
 
 
 //电视直播，txt=后为base64加密
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="]}]}],
+//"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="]}]}],
 
 
 //广告过滤
